@@ -12,3 +12,11 @@ Development Team
 Student Name: Jack Alexander B. Padini
 Course:BSIT-BA
 Section:2-B
+
+Member Management Module
+
+Features
+- Register New Member
+- Update Member Information
+- Delete Member Record
+- Search Member
